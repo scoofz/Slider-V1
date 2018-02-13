@@ -1,1 +1,1 @@
-# Slider-V1
+# TimelapseSliderProjectLCD
